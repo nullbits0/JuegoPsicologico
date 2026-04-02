@@ -1,18 +1,24 @@
-## Getting Started
+# Juego Psicológico
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aplicación de consola desarrollada en Java que implementa 
+un juego basado en lógica psicológica y toma de decisiones.
 
-## Folder Structure
+## ¿Qué hace?
+Un juego por turnos en el que elijes un personaje para combatir, segun tu eleccion estaras en el bando del heroe o el del villano, cada personaje tiene sus propias habilidades.
 
-The workspace contains two folders by default, where:
+## Tecnologías usadas
+- Java (JDK 21+)
+- Programación Orientada a Objetos
+- Estructuras de control y manejo de flujo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Cómo ejecutarlo
+1. Clona el repositorio: `git clone https://github.com/sofia-6969/JuegoPsicologico`
+2. Abre en VS Code con la extensión Java
+3. Ejecuta `Main.java`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Aprendizajes
+- Implementación de lógica de juego con Java
+- Manejo de entrada/salida por consola
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Autora
+Sofia · Estudiante de Ingeniería de Sistemas
