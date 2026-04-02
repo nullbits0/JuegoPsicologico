@@ -21,4 +21,4 @@ Un juego por turnos en el que elijes un personaje para combatir, segun tu elecci
 - Manejo de entrada/salida por consola
 
 ## Autora
-Sofia · Estudiante de Ingeniería de Sistemas
+nullbits0 · Estudiante de Ingeniería de Sistemas
